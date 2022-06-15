@@ -1,3 +1,5 @@
+package EntytiesAPI;
+
 public class DtoForBooking {
     private int ItemId;
     private int Count ;
